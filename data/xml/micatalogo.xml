@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+
+    <producto id="PROD001">
+        <nombre>iPhone 17</nombre>
+        <descripcion>El iPhone 17 cuenta con una pantalla OLED LTPO de 6.3 pulgadas, un procesador A19, cámaras de 48 MP y una batería de 3692 mAh, ofreciendo un rendimiento excepcional y una experiencia visual mejorada.</descripcion>
+        <categoria>Smartphones</categoria>
+        <precio moneda="EUR">959</precio>
+        <imagen url="https://www.mobilexchangebd.com/storage/products/iphone-17-sage445.jpeg" />
+    </producto>
+
+    <producto id="PROD002">
+        <nombre>Samsung Galaxy S25</nombre>
+        <descripcion>El Galaxy S25 Ultra destaca con su pantalla AMOLED QHD+ de 6.9 pulgadas, procesador Snapdragon 8 Elite, cámaras de 200 MP y una batería de 5000 mAh, ofreciendo un rendimiento excepcional y una experiencia visual mejorada.</descripcion>
+        <categoria>Smartphones</categoria>
+        <precio moneda="EUR">1199</precio>
+        <imagen url="https://qskinz.com/cdn/shop/files/Samsung_Galaxy_S25_ULTRA_Satin_Blue_Metallic_Matt_Matte_Skin_Wrap_Sticker_Decal_Cover_Protector_by_QSKINZ_qskinz.com.png?v=1739806428&amp;width=1080" />
+    </producto>
+
+    <producto id="PROD003">
+        <nombre>Google Pixel 9 Pro</nombre>
+        <descripcion>El Pixel 9 Pro destaca por su inteligencia artificial integrada, pantalla OLED de 6.7 pulgadas y cámaras optimizadas por Google AI, garantizando fotos nítidas y colores precisos.</descripcion>
+        <categoria>Smartphones</categoria>
+        <precio moneda="EUR">719</precio>
+        <imagen url="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/df9c78b6-693b-4060-b888-011eb20facb4.jpg" />
+    </producto>
+
+    <producto id="PROD004">
+        <nombre>Xiaomi 15 Ultra</nombre>
+        <descripcion>Con su potente procesador Snapdragon 8 Gen 4 y cámaras Leica de última generación, el Xiaomi 15 Ultra redefine la fotografía móvil y el rendimiento en Android.</descripcion>
+        <categoria>Smartphones</categoria>
+        <precio moneda="EUR">1299</precio>
+        <imagen url="https://tse4.mm.bing.net/th/id/OIP.Qh2_RvlTfsf9t_nIsb_9ewHaHa?cb=12ucfimg=1&amp;rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3" />
+    </producto>
+
+    <producto id="PROD005">
+        <nombre>OnePlus 13</nombre>
+        <descripcion>El OnePlus 13 combina velocidad, elegancia y rendimiento. Su pantalla fluida y su carga ultrarrápida lo convierten en un móvil perfecto para los que buscan potencia y estilo.</descripcion>
+        <categoria>Smartphones</categoria>
+        <precio moneda="EUR">859</precio>
+        <imagen url="https://www.powerplanetonline.com/cdnassets/oneplus_13_azul_01_l.jpg" />
+    </producto>
+
+    <producto id="PROD006">
+        <nombre>Redmi Buds 6</nombre>
+        <descripcion>Los Redmi Buds 6 ofrecen sonido Hi-Fi con driver doble, cancelación activa de ruido (ANC), buena autonomía y diseño ligero e inalámbrico. Perfectos para escuchar música o hacer llamadas con calidad.</descripcion>
+        <categoria>Auriculares</categoria>
+        <precio moneda="EUR">23</precio>
+        <imagen url="https://m.media-amazon.com/images/I/51NAD7MaCdL._AC_SY300_SX300_QL70_ML2_.jpg" />
+    </producto>
+    </producto>
+
+</catalogo>
